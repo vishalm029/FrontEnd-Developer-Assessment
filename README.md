@@ -30,7 +30,7 @@ Contributions to this project are welcome! If you find any bugs or have suggesti
 
 ## Credits
 
-This project was created by [Your Name] as a sample demonstration of building an E-Commerce website using HTML, CSS, JavaScript, and APIs.
+This project was created by Vishal Mishra as a sample demonstration of building an E-Commerce website using HTML, CSS, JavaScript, and APIs.
 
 
  
