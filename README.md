@@ -32,11 +32,6 @@ Contributions to this project are welcome! If you find any bugs or have suggesti
 
 This project was created by [Your Name] as a sample demonstration of building an E-Commerce website using HTML, CSS, JavaScript, and APIs.
 
-## License
-
-This project is licensed under the [License Name] License. See the `LICENSE` file for details.
-
-Thank you for checking out this sample E-Commerce website! If you have any questions or feedback, please don't hesitate to reach out. Happy coding!
 
  
 ### Home page
